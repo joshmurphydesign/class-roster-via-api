@@ -1,5 +1,7 @@
 # Class Roster via our API data
 
+## include screenshot of class roster final layout. upload it to github first, then (url to our image)
+
 ## What Is This? 
 Get, Show, and Style a Class Roster via our API data
 
